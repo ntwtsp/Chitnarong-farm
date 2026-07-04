@@ -1,4 +1,4 @@
-const CACHE = 'chitnarong-farm-v7';
+const CACHE = 'chitnarong-farm-v8';
 const ASSETS = ['/Chitnarong-farm/', '/Chitnarong-farm/index.html'];
 
 self.addEventListener('install', e => {
